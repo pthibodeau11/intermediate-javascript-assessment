@@ -77,16 +77,6 @@ function promiseMe($q) {
   });
 }
 
-// function promisMe($q) {
-//   try {
-//     setTimeout(function() {
-//       foo = "bar";
-//     }, 20);
-//   } catch {
-//     return foo;
-//   }
-// }
-
 // *************
 // * PROBLEM 4 *
 // *************
